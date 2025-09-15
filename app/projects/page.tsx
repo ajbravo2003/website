@@ -30,7 +30,6 @@ export default function ProjectsPage() {
         <a href="https://github.com/ajbravo2003/Coding-Programs/tree/46aca891412ddd3d1eafa560118704befecea67e/HTML%2BCSS%2BJSON" target="_blank" rel="noopener noreferrer">View on GitHub</a>
       </div>
 
-
     </section>
   );
 }
